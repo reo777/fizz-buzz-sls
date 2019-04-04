@@ -1,0 +1,5 @@
+### 自動生成されるディレクトリ ###
+node_modules/
+build/
+coverage/
+

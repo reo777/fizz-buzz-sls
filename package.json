@@ -1,0 +1,50 @@
+{
+    "name": "abc",
+    "version": "1.0.0",
+    "main": "index.js",
+
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/reo777/fizz-buzz-sls.git"
+    },
+    "bugs": {
+        "url": "https://github.com/reo777/fizz-buzz-sls/issues"
+    },
+    "homepage": "https://github.com/reo777/fizz-buzz-sls#readme",
+    "description": "",
+
+
+    "scripts": {
+        "build": "tsc",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@types/jest": "^24.0.11",
+        "jest": "^24.7.1",
+        "ts-jest": "^24.0.1",
+        "typescript": "^3.4.1"
+    },
+    "jest": {
+        "moduleFileExtensions": [
+            "ts",
+            "tsx",
+            "js"
+        ],
+        "transform": {
+            "^.+\\.(ts|tsx)$": "ts-jest"
+        },
+        "globals": {
+            "ts-jest": {
+                "tsConfigFile": "tsconfig.json"
+            }
+        },
+        "testMatch": [
+            "**/__tests__/*.+(ts|tsx|js)"
+        ]
+    }
+}
