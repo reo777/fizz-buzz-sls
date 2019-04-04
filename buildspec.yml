@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    SRC_DIR: src/github.com/gemcook/gc-tech-sls
+    SRC_DIR: src/github.com/reo777/fizz-buzz-sls
 
 phases:
   install:
