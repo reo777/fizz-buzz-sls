@@ -1,1 +1,3 @@
 # reo777-fizz-buzz-sls
+
+![build batch](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZ25LT2dyN21KTG1KdThOR0I4MjNuUWltL0NNbDBQZHFrSm5OOWZ6eGlVQUl0M1VIL3RXclpyWUhzeGNjLzMyQzlOMFZ6Vnc4TWY0M0hoOXVJZHB3M3Z3PSIsIml2UGFyYW1ldGVyU3BlYyI6Ik1QdDBDaUpsbWhHY20zWE4iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
